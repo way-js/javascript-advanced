@@ -64,4 +64,4 @@ const amount = people
     })
     .reduce((total, person) => total + person.budget, 0)
 
-    console.log(amount)
+console.log(amount)
